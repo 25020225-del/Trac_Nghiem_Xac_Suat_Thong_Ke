@@ -1,0 +1,20 @@
+[
+    {
+        "question":"what is gay?",
+        "choice_A":"i dont know",
+        "choice_B":"may be something?",
+        "choice_C":"or not",
+        "choice_D":"somethings",
+        "answer":"D",
+        "explain":"I dont know something"
+    },
+    {
+        "question":"what is gay?",
+        "choice_A":"i dont know",
+        "choice_B":"may be something?",
+        "choice_C":"or not",
+        "choice_D":"somethings",
+        "answer":"D",
+        "explain":"I dont know something"
+    }
+]

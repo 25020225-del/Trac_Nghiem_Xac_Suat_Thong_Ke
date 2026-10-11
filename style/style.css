@@ -1,0 +1,35 @@
+body {
+    padding:10px;
+}
+@keyframes sampleAnimation {
+    from{
+        top: -50%;
+    }
+    to{
+        top: 50%;
+    }
+}
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 1000px;
+    height: 800px;
+    border: 5px solid;
+    border-radius: 30px;
+    border-color: rgb(122, 152, 167);
+    padding: 5px 20px 5px 20px;
+    animation-name: sampleAnimation;
+    animation-duration: 2s;
+}
+.custom_button{
+    width: 170px;
+    height:120px;
+    margin:10px;
+    border: 0px;
+    border-radius: 30px;
+    color: aliceblue;
+    font-size: 22px;
+    background-color: rgb(79, 122, 122);
+}
